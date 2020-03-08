@@ -1,22 +1,16 @@
 .parent {
-  position: fixed;
-  top: 100px;
-  left: 100px;
-  width: 50%;
+    position: relative;
+    height: 200vh;
 }
 
-.child-one {
-    position: fixed;
+.child-one {}
+
+.child-two {
+    position: sticky;
     top: 20px;
 }
 
-.child-two {
- 
-}
-
-.child-three {
-  
-}
+.child-three {}
 
 
 .parent {
