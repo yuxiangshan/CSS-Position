@@ -1,17 +1,21 @@
 .parent {
-
+    position: relative;
+    top: 20px;
 }
 
 .child-one {
-
+    position: relative;
+    left: 20px;
 }
 
 .child-two {
-
+    position: relative;
+    top: 10px;
 }
 
 .child-three {
-
+    position: relative;
+    right: 20px;
 }
 
 
